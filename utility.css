@@ -1,3 +1,4 @@
+/* utilities */
 .border{
     border: 2px solid red;
     margin: 3px;
@@ -30,3 +31,11 @@
 .p-1{
     padding: 10px;
 }
+
+/* ===== SCROLL ENABLE (IMPORTANT) ===== */
+.right{
+    overflow-y: scroll;
+    max-height: 100vh;
+}
+
+
